@@ -55,14 +55,17 @@ div {
     flex-grow: 2;
     flex-shrink: 1;
     margin-top: 6%;
+    padding-left: 20px;
     color: #535b80;
     background-color: #dffff8;
     border: none;
     border-radius: 3px;
 
+
 }
 
 input[type="checkbox"]:focus {
+
     color: #000000;
     border: 1px solid #000000
 }
@@ -76,7 +79,7 @@ input[type="checkbox"]:focus {
 
 label {
     color: #0c008a;
-    text-shadow: 1px 1px 2px #41aeeb, 0 0 1em #000000;
+    text-shadow: 1px 1px 2px #41aeeb, 0 0 1em #4b68ca;
 }
 
 div#under {
